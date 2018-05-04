@@ -4,6 +4,18 @@
 
 
 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Draw.io Diagram</title>
+<meta http-equiv="refresh" content="0;URL='https://www.draw.io/#HHenkWillcock%2FGitTest%2Fmaster%2FUse%20Case%20Diagram.html'"/>
+<meta charset="utf-8"/>
+</head>
+<body>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36\&quot; version=\&quot;8.5.15\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;github\&quot;&gt;&lt;diagram id=\&quot;cd70c551-0c8d-7477-6860-b23e6f07e7f4\&quot; name=\&quot;Page-1\&quot;&gt;7Vpdb+MoFP01edyR8VfaxyRuZlbqStVUszv7SG3qoMHGi0mT7q/fi40/ME6UzibWKIofWnOBC5xzzwXczrxVtv8scLH5gyeEzVwn2c+8aOa6yHdD+KUs77UlvA9qQypooht1hmf6L9FGR1u3NCGl0VByziQtTGPM85zE0rBhIfjObPbKmTlqgVNiGZ5jzGzrXzSRG21F4X1X8YXQdKOHvmsW/ILjH6ng21yPN3O91+qpqzPc+NILLTc44bueyXuYeSvBuazfsv2KMIVtA1vdb32gtp23ILk8pYNbd3jDbKuX/gBTd51vJRF6hvK9QQUmW6jXbcYWseRi5i3fiJAUcHvEL4Q98ZJKynNo8sKl5Bk0YKpi2aKy4kz1izpcOh8LRlPVV/ICrBuZMSggeOVbyWhOVi3ZDhhfKWM9b+t1tF4ulJ3nUgcUAjiXWHuNARGipmxDpFFT8yD7nklD9pnwjEjxDk107VxHs45u5OnyrosVTxO86UVJqG1YR2faOu4YghdN0jhhc4uwR56mRHH2ew4/bvR9mD7PnY6+O1tve0nypLTYAuNCZTLFBuPxD1g6mBpowrq4pmqkCtAe4EMMD0JGEiMN2oD1EEHN8gVhWNI3M1OOYaLdPXEKw7bg3zsm+CgwPZR8K2KiO/Uz13E/rjvwI7FIibT8VAS1KzyJs3uLs6+kJFjEm5vIThZZgKYTWXOKuKmsRd85j8r8oVrPpzKELNIWSUZzWkqBlZBuSjugtBCZUms4m0Jp9vlx5oYMRli+wEsqqxXWBgWFwWD4z5Y3Fb+VFUgLaICCYt9VNl6i5wLHpPEF86rdmUOAuTfsIF760v0gW4y8yoOhUcLEaJ4+Vm0i5JyHVHQ32CdtUn1njNXgHLR6B2k9mUVnjMXnatusbmRCnVglyQ5SOszUjMHtDwrL3YZKUoeDF+3gAjrIy0Ny1TORFF3HZG1us4bcEdbOQpo/Qtrh7S7nOTm+oQEM4v27TnBV4W9V+BSo4p7K77qfeq9rvMGjK5+IoLAcBXJ0VB71rjTr30zrDcYMy49sqMERtP/nHouQSTbyByyeusmi+XjUXGCTDawY+ZOSHXSL+C5nHCetKi8pP2ci+aGRrHk5/YUWtnA11/fyq0Bz5GBxOTTtDx3Xls2C68xmcP0yoPPvTL9O8AmF3TP3L5bs7I8t1xZC4ZWGkHs8hNBkIWR/+1kJgiVcRNYPCZVXtVu2YTBFfm/8nkWcTk+AjiHAoC9bZMp2TJyq9qfU2URKX57zX0qd/uCQOWTx5NPqQOWed7HjahMTvSD5VlzdKdVDU+ruUlf7NQWjE20LRuMqQTpfScyF+uZ6RRd8PxioaErqxi74N+p+lrpLXg6h2P0Nv0583T9KeA//AQ==&lt;/diagram&gt;&lt;/mxfile&gt;&quot;,&quot;toolbar&quot;:&quot;pages zoom layers lightbox&quot;,&quot;page&quot;:0}"></div>
+<a style="position:absolute;top:50%;left:50%;margin-top:-128px;margin-left:-64px;" href="https://www.draw.io/#HHenkWillcock%2FGitTest%2Fmaster%2FUse%20Case%20Diagram.html" target="_blank"><img border="0" src="https://www.draw.io/images/drawlogo128.png"/></a>
+</body>
+</html>
 
 
 #### Assumptions:
