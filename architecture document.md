@@ -65,7 +65,7 @@ Another dependency of the product is that the frameworks and APIs need to be pre
   <tr>
     <th>Risk</th>
     <th>Mitigation Strategy</th>
-    <th>Chance of Occuring</th>
+    <th>Likelihood</th>
     <th>Potiential Impact</th>
   </tr>
   
