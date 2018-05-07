@@ -63,18 +63,16 @@ Another dependency of the product is that the frameworks and APIs need to be pre
 
 <table>
   <tr>
-    <td>
-      Risk Name
-    </td>
-    <td>
-      Probability of Occuring
-    </td>
-    <td>
-      Potiential Impact
-    </td>
-    <td>
-      Mitigation Strategy
-    </td>
+    <th>Risk</th>
+    <th>Probability of Occuring</th>
+    <th>Potiential Impact</th>
+    <th>Mitigation Strategy</th>
+  </tr>
+  <tr>
+    <td>Changes to requirements that require major design rework are proposed.</td>
+    <td>Low</td>
+    <td>Tolerable</td>
+    <td>Propose a compromise with the new requirement that will have the same effect but may be built on top of the current         design, alternatively, a compromise that requires minor changes.</td>
   </tr>
 </table>
   
