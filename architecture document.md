@@ -68,11 +68,68 @@ Another dependency of the product is that the frameworks and APIs need to be pre
     <th>Potiential Impact</th>
     <th>Mitigation Strategy</th>
   </tr>
+  
   <tr>
     <td>Changes to requirements that require major design rework are proposed.</td>
     <td>Low</td>
     <td>Tolerable</td>
-    <td>Propose a compromise with the new requirement that will have the same effect but may be built on top of the current         design, alternatively, a compromise that requires minor changes.</td>
+    <td>Propose a compromise with the new requirement that will have the same effect but may be built on top of the current design. Alternatively, a compromise that requires minor changes.</td>
+  </tr>
+   
+   <tr>
+    <td>Faults in reusable software components have to be repaired before these components are reused.</td>
+    <td>Low</td>
+    <td>Serious</td>
+    <td>Depending on the size of the component, and the number of modules that depend on it. Just repair the faults. If the     module is highly coupled, arrange a meeting with affected group members and see if there is time to fix the fault on a new branch.</td>
+  </tr>
+  
+  <tr>
+    <td>Required training for staff is not available.</td>
+    <td>Low</td>
+    <td>Tolerable</td>
+    <td>Identify what training is needed and research solutions. Utilise online resources and assistance.</td>
+  </tr>
+  
+  <tr>
+    <td>Key staff are ill at critical times in the project.</td>
+    <td>Moderate</td>
+    <td>Serious</td>
+    <td>All team members have signed an agreement that specifies that early notice is required in times of absence before times that need the whole team present. Depending on the reason of absence, no action will need to be taken.</td>
+  </tr>
+  
+  <tr>
+    <td>The organisation is restructured so that different management are responsible for the project.</td>
+    <td>Certain</td>
+    <td>Insignificant</td>
+    <td>One of the members are leaving in August. The organisation has already been notified of this and will plan how to mitigate this. At present, it will have no major impact that is measurable.</td>
+  </tr>
+  
+  <tr>
+    <td>Software tools cannot be integrated.</td>
+    <td>Low</td>
+    <td>Serious</td>
+    <td>This is a low likelihood risk. Many of the team members have used the software tools required, specifically Ember.js and are sure it can be integrated. If it cannot there are available alternatives such as Angular.js and Angular 5.</td>
+  </tr>
+  
+  <tr>
+    <td>A critical section of the project is unavailable to team members. Impact is dependant on that section.</td>
+    <td>Low</td>
+    <td>Serious</td>
+    <td>All members are apart of the same GitHub repository. If there is a section that is inaccessible, members of the team have all exchange contact details. To mitigate the issue, members would contact the person in charge of the unavailable module and get them to push it to GitHub.</td>
+  </tr>
+  
+  <tr>
+    <td>Broken code is included in the final product and released.</td>
+    <td>Low</td>
+    <td>Serious</td>
+    <td>Create a new branch on GitHub for the purpose of fixing the issue and then push it once the fix is complete and shown to not cause any other errors.</td>
+  </tr>
+  
+  <tr>
+    <td>Team does not meet critical deadline.</td>
+    <td>Moderate</td>
+    <td>Catastrophic</td>
+    <td>Meet with the client to arrange a solution.</td>
   </tr>
 </table>
   
