@@ -35,3 +35,47 @@ The team is assuming our mockups in Sketch are just general guidelines, and our 
 The end-product will be connected to a Database Management System (DMS). If the connection to the database fails, user actions could fail as a result. These may include actions such as looking for a specific articles.
 
 Another dependency of the product is that the frameworks and APIs need to be pre-loaded to ensure correct operation of the website. All JavaScript, HTML and CSS code must be loaded in order to make sure this occurs. Further to this, due to the nature of web-based applications requiring a connection to the internet, the team assumes that all end-users of the system will have a stable internet connection.
+
+
+| Risk                                                                                           | Likelihood | Impact        |
+|------------------------------------------------------------------------------------------------|------------|---------------|
+| Changes to requirements that require major design rework are proposed.                         | Low   | Tolerable     |
+| Faults in reusable software components have to be repaired before these components are reused. | Low   | Serious       |
+| Required training for staff is not available.                                                  | Low        | Tolerable     |
+| Key staff are ill at critical times in the project.                                            | Moderate   | Serious       |
+| The organisation is restructured so that different management are responsible for the project. | Certain    | Insignificant |
+| Software tools cannot be integrated.                                                           | Low        | Serious       |
+| A critical section of the project is unavailable to team members’ dependant on that section.   | Low        | Serious       |
+| Broken code is included in the final product and released.                                     | Low        | Serious       |
+| Team does not meet critical deadline.                                                          | Moderate   | Catastrophic  |
+
+| Risk                                                                                           | Mitigation                                                                                                                                                                                                                                              |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Changes to requirements that require major design rework are proposed.                         | Propose a compromise with the new requirement that will have the same effect but may be built on top of the current design, alternatively, a compromise that requires minor changes.                                                                     |
+| Faults in reusable software components have to be repaired before these components are reused. | Depending on the size of the component, and the number of modules that depend on it. Just repair the faults. If the module is highly coupled, arrange a meeting with affected group members and see if there is time to fix the fault on a new branch.  |
+| Required training for staff is not available.                                                  | Identify what training is needed and research solutions. Utilise online resources and assistance.                                                                                                                                                       |
+| Key staff are ill at critical times in the project.                                            | All team members have signed an agreement that specifies that early notice is required in times of absence before times that need the whole team present. Depending on the reason of absence, no action will need to be taken.                                                                      |
+| The organisation is restructured so that different management are responsible for the project. | One of the members are leaving in August. The organisation has already been notified of this and will plan how to mitigate this. At present, it will have no major impact that is measurable.                                                                                                                                                                                                                                                          |
+| Software tools cannot be integrated.                                                           | This is a low likelihood risk. Many of the team members have used the software tools required, specifically Ember.js and are sure it can be integrated. If it cannot there are available alternatives such as Angular.                                                                                                                                                                                                                                                       |
+| A critical section of the project is unavailable to team members’ dependant on that module.   | All members are apart of the same GitHub repository. If there is a section that is inaccessible, members of the team have all exchange contact details. To mitigate the issue, members would contact the person in charge of the unavailable module and get them to push it to GitHub                                                                                                                                                                                                                                                    |
+| Broken code is included in the final product and released.                                     | Create a new branch on GitHub for the purpose of fixing the issue and then push it once the fix is complete and shown to not cause any other errors.                                                                                                                                                                                                                                                        |
+| Team does not meet critical deadline.                                                          | Meet with the client to arrange a solution.                                                                                                                                                                                                                                                        |
+
+<table>
+  <tr>
+    <td>
+      Risk Name
+    </td>
+    <td>
+      Probability of Occuring
+    </td>
+    <td>
+      Potiential Impact
+    </td>
+    <td>
+      Mitigation Strategy
+    </td>
+  </tr>
+</table>
+  
+      
