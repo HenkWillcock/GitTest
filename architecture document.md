@@ -36,20 +36,7 @@ The end-product will be connected to a Database Management System (DMS). If the 
 
 Another dependency of the product is that the frameworks and APIs need to be pre-loaded to ensure correct operation of the website. All JavaScript, HTML and CSS code must be loaded in order to make sure this occurs. Further to this, due to the nature of web-based applications requiring a connection to the internet, the team assumes that all end-users of the system will have a stable internet connection.
 
-
-| Risk                                                                                           | Likelihood | Impact        |
-|------------------------------------------------------------------------------------------------|------------|---------------|
-| Changes to requirements that require major design rework are proposed.                         | Low   | Tolerable     |
-| Faults in reusable software components have to be repaired before these components are reused. | Low   | Serious       |
-| Required training for staff is not available.                                                  | Low        | Tolerable     |
-| Key staff are ill at critical times in the project.                                            | Moderate   | Serious       |
-| The organisation is restructured so that different management are responsible for the project. | Certain    | Insignificant |
-| Software tools cannot be integrated.                                                           | Low        | Serious       |
-| A critical section of the project is unavailable to team members’ dependant on that section.   | Low        | Serious       |
-| Broken code is included in the final product and released.                                     | Low        | Serious       |
-| Team does not meet critical deadline.                                                          | Moderate   | Catastrophic  |
-
-| Risk                                                                                           | Mitigation                                                                                                                                                                                                                                              |
+                                                                                         |
 
 
 <table>
