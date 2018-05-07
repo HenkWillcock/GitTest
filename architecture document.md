@@ -116,26 +116,26 @@ Another dependency of the product is that the frameworks and APIs need to be pre
 
 The project commenced on Thursday 15th March 2018, and will conclude on Friday 19th October 2018. During this timeframe key milestones and deadlines need to be met, ensuring that deliverables are sent to the client on time. Weekly or bi-weekly meetings will be established to assist in communication between the client and the team and to make sure that both parties are on track with any aspects of the project required by the other. The following section will outline the key dates for the project described in this document. Some of these dates are subject to change and may depend on external factors. The team will endeavour to meet all deadlines and reach set milestones within a reasonable timeframe.
 
-#### 04/05/2018 - Project Architecture Review
+##### 04/05/2018 - Project Architecture Review
 This Architecture document will be reviewed by both the team and client in a meeting on Friday 4th May to make any necessary amendments or make changes to the vision and scope of the project. This will be an opportunity for both parties to raise any questions or concerns relating to both the functional and non-function aspects of the project. Also, if there are going to be new expectations for any party of the project the deadlines need to be push due to the new expectations.
 
-#### 27/04/2018 - Design Audit Completed
+##### 27/04/2018 - Design Audit Completed
 The team will audit both the UI and UX of the existing DSpace and report to ADRI where the team believes improvements can be made, as well as what aspects of the existing design should remain in the new front end design. An audit report will be provided to ADRI and a meeting set up to discuss the team’s findings. Also, there would be a Sketch and pdf file provided for the client to have a brief idea of the visual front-end design.
 
-#### 04/05/2018 - Initial UI and UX Designs Completed 
+##### 04/05/2018 - Initial UI and UX Designs Completed 
 The front end of ADRI’s DSpace repository will first be designed and wire-framed with an interactive prototyping tool allowing ADRI to both see the UI the team has designed in accordance with ADRI’s branding, and perform UX interactions with the prototype. This initial design will likely need to be reviewed multiple times, so the team will make regular contact to ensure that ADRI’s vision is preserved throughout all aspects of the design.
 
-#### 11/05/2018 - UI and UX Designs Finalised 
+##### 11/05/2018 - UI and UX Designs Finalised 
 Upon completion of all changes to the UI and UX of the front end, both parties will agree on a design that reflects the technical possibilities of the frameworks to be used, as well as ADRI’s vision for the visual aspects of the end product. At this stage of the progress, we have multiple designs and architectures for the solution that we are going to develop and all the designs and architectures have been approved by the client and the team members.
 
-#### 14/05/2018 - Architecture Framework Completed 
+##### 14/05/2018 - Architecture Framework Completed 
 A basic framework consisting of all necessary requirements will be delivered to ADRI to demonstrate the basic architecture of the Ember.js framework in use within the DSpace environment. This date cannot be changed.
 
-#### 04/06/2018 - Repository Integration Completed 
+##### 04/06/2018 - Repository Integration Completed 
 At this stage, the architectural prototype will be integrated and working with all necessary repository and database services. This will also include any required connections to third-party services including APIs and resource sharing.
 
-#### 14/06/2018 - Minimum Viable Product Completed
+##### 14/06/2018 - Minimum Viable Product Completed
 An MVP will be completed by this date, ready for presentation the next day on the 15th. The MVP will consist of a basic Ember.js frontend for the DSpace database system. It will have most of the pages of the final product, but these pages will be subject to change. It will have some design features but not on every page. It will have some functionality but not all the features of the final product. This date cannot be changed.
 
-#### 19/10/2018 - Final Delivery Deadline
+##### 19/10/2018 - Final Delivery Deadline
 This is the final deadline to deliver our product to the client. This date cannot be changed.
