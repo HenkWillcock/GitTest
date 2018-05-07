@@ -77,8 +77,8 @@ Another dependency of the product is that the frameworks and APIs need to be pre
   
   <tr>
     <td>The organisation is restructured so that different management are responsible for the project.</td>
-    <td>One of the members are leaving in August. The organisation has already been notified of this and will plan how to mitigate this. At present, it will have no major impact that is measurable.</td>
-    <td>Certain</td>
+    <td>There is already one team member leaving in August. The organisation has already been notified of this and will plan how to mitigate this. At present, it will have no major impact that is measurable. There may however be other team members which either join or leave, these cases will need to be dealt with separately.</td>
+    <td>Moderate</td>
     <td>Insignificant</td>
   </tr>
   
