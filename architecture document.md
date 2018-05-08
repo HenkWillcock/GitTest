@@ -8,7 +8,9 @@
 
 This is likely the most commonly completed use case of the entire system. As such, it is critical that this use case has a good UX, and works quickly and reliably on the system side. For an activity diagram describing this process see section 4.3.
 
-This process involves all the physical components of the system, these being the user's browser, the web server, the application server, and the database server. When the user searches for an item in their browser, the web server will rec
+This process involves all the physical components of the system, these being the user's browser, the web server, the application server, and the database server. Here is a sequence diagram describing the basic interactions between these components.
+
+![alt Deployment Diagram](https://github.com/ADRI-Institute/Dspace-Amber/blob/master/M2_Architecture/UML%20Diagrams/Search%20Sequence%20Diagram.png)
 
 
 
